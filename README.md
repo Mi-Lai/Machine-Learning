@@ -1,4 +1,6 @@
 # Machine-Learning
+#Análisis de datos con Python
+#Detección de fraude en tarjetas de crédito
 https://colab.research.google.com/drive/1Il8Z31AZIsOssKofEC0IWCs9aWnFbGYP
 
 El presente proyecto busca poner en practica lo aprendido en el modulo 2: Análisis de datos con Python del curso de
