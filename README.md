@@ -1,10 +1,8 @@
 # Machine-Learning
-#Análisis de datos con Python
 #Detección de fraude en tarjetas de crédito
-https://colab.research.google.com/drive/1Il8Z31AZIsOssKofEC0IWCs9aWnFbGYP
-
-El presente proyecto busca poner en practica lo aprendido en el modulo 2: Análisis de datos con Python del curso de
-Ciencia de Datos de BEDU X TECNOLOCHICAS.
-Mediante un modelo para la detección de Fraude de Tarjetas de Crédito usando datos extraidos de Kanggle: Credit Card Fraud by DHANUSH NARAYANAN R.
-Se realizó un Modelo con Regresion Lineal Simple, se aplicaron pruebas de evaluación de modelos como validación cruzada,
-pruebas A/B, se entrenó un Modelo de Regresión Logistica y visualización de datos.
+Modulo 3: Machine Learning del curso de Ciencia de Datos de BEDU X TECNOLOCHICAS.
+El presente proyecto es una comparación de la precisión de los algritmos supervisados y no supervisados para la detección de Fraude de Tarjetas de Crédito usando datos extraidos de Kanggle: Credit Card Fraud by DHANUSH NARAYANAN R., con la finalidad de obsevar cual modelo se ajusta mejor a nuestros datos.
+El proyecto fue un trabajo en equipo, en donde su servidora realizó los siguientes algoritmos:
+Support Vector Machine 96.325%
+Regresión Logistica 95.83%
+K Means- el cual no fue un buen modelo para detectar fraudes bancarios.
